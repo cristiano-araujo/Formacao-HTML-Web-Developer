@@ -22,5 +22,5 @@ Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você
 Exercício realizado como foi proposto pelo curso para aprendizagem do estudo em Página WEB com a Linguagem de Marcação HTML.
 ## Autor
 
-- [@cristiano112715](https://github.com/cristiano112715)
+- [@cristiano112715](https://github.com/cristiano112715/Formacao-HTML-Web-Developer/tree/main/Primeiros%20Passos%20com%20HTML/Criar%20Uma%20P%C3%A1gina%20Web%20Utilizando%20as%20Tags%20Aprendidas)
 
