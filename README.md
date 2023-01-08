@@ -101,5 +101,5 @@ Desafio está lançado! Com tudo que aprendemos neste Módulo é perfeitamente p
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 ## Autor
 
-- [@cristiano112715](https://github.com/cristiano112715)
+- [@cristiano112715](https://github.com/cristiano112715/Formacao-HTML-Web-Developer)
 
